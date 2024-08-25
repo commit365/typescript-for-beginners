@@ -1,4 +1,4 @@
-# TypeScript: From Zero to Hero
+# TypeScript: From Zero to Mastery
 
 Welcome to the TypeScript for Beginners course! This course is designed to take you from a complete beginner to a proficient TypeScript developer. You'll learn the fundamentals of TypeScript, explore advanced features, and apply your knowledge in real-world projects.
 
