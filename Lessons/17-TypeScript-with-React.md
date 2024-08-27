@@ -88,3 +88,5 @@ Integrating TypeScript with React enhances your development experience by provid
    In this example, the `TodoList` component receives an array of `Todo` objects as props, with each `Todo` having an `id`, `text`, and `completed` status.
 
 Using TypeScript with React helps catch errors at compile time, provides better documentation through types, and improves the overall robustness of your application.
+
+[Next: 18-TypeScript-with-Node.js](./18-TypeScript-with-Node.js.md)

@@ -56,3 +56,5 @@ In the above code, TypeScript infers the types of `city` and `temperature` based
    ```
 
    In this example, `userInput` is of type `unknown`. Before calling `toUpperCase`, a type check ensures that `userInput` is a string.
+
+[Next: 05-Union-and-Intersection-Types](./05-Union-and-Intersection-Types.md)

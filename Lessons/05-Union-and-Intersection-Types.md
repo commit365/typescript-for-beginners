@@ -56,3 +56,5 @@ getStaffDetails(staff);
 ```
 
 In this example, `StaffMember` is an intersection type that combines `Person` and `Employee`. A `StaffMember` must have all properties from both `Person` and `Employee` interfaces. The `getStaffDetails` function demonstrates how to work with an intersection type.
+
+[Next: 06-Functions](./06-Functions.md)

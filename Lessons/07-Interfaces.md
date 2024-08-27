@@ -90,3 +90,5 @@ console.log(`Dog's Name: ${myDog.name}, Breed: ${myDog.breed}`);
 ```
 
 In this example, the `Dog` interface extends the `Animal` interface, inheriting its properties and adding a new `breed` property. The `myDog` object must include all properties from both `Animal` and `Dog`.
+
+[Next: 08-Type-Aliases-and-Assertions](./08-Type-Aliases-and-Assertions.md)

@@ -47,3 +47,5 @@ To start using TypeScript, you'll need to set up your development environment. F
    This command generates a `hello.js` file that you can run in any JavaScript environment.
 
 With your development environment set up, you're ready to start exploring the world of TypeScript!
+
+[Next: 02-Getting-Started](./02-Getting-Started.md)

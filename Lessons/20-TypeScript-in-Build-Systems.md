@@ -93,3 +93,5 @@ Babel is a JavaScript compiler that can be used alongside TypeScript to transfor
    Babel will compile your TypeScript files and output the JavaScript files to the `dist` directory.
 
 Using TypeScript with Webpack and Babel allows you to leverage modern JavaScript features, optimize your code for production, and ensure compatibility with various environments.
+
+[Next: 21-Best-Practices](./21-Best-Practics.md)

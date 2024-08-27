@@ -69,3 +69,5 @@ let currentStatus: Status = Status.Active;
 ```
 
 In this example, `Status.Active` is assigned the value 1, and the subsequent members increment from there.
+
+[Next: 04-Type-Annotations-and-Inference](./04-Type-Annotations-and-Inference.md)

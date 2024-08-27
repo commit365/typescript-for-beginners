@@ -67,3 +67,5 @@ logLength([1, 2, 3]); // Output: 3
 In this example, the `logLength` function has a constraint `T extends Lengthwise`, meaning `T` must have a `length` property. This ensures that you can safely access `length` on the `item` parameter.
 
 Constraints help you create more robust and type-safe generic components by enforcing certain properties or methods on the types used.
+
+[Next: 11-Classes](./11-Classes.md)

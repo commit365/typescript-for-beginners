@@ -81,3 +81,5 @@ Namespaces are used to organize code within a single file or module, helping to 
    Here, the `Circle` namespace is nested within the `Geometry` namespace, indicating that the function is specific to circles.
 
 Namespaces are primarily used for organizing code within a module, while modules are used for organizing code across multiple files. In modern TypeScript, modules are generally preferred for code organization, especially when working with external libraries and frameworks.
+
+[Next: 13-Decorators](./13-Decorators.md)

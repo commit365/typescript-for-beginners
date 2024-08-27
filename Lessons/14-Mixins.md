@@ -51,3 +51,5 @@ Mixins are created by defining a function that takes a class and returns a new c
    Here, `SuperPerson` is a class that extends `Person` with the `CanEat` and `CanSleep` mixins, gaining the ability to `eat` and `sleep`.
 
 Mixins provide a flexible way to compose classes with shared behavior, allowing you to avoid deep inheritance hierarchies and promote code reuse. They are particularly useful when you need to add similar functionality to multiple classes without creating a complex class hierarchy.
+
+[Next: 15-Utility-Types](./15-Utility-Types.md)

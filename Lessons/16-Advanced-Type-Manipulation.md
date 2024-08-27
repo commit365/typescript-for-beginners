@@ -64,3 +64,5 @@ const theme2: Theme = "dark-blue"; // Valid
 In this example, `Theme` is a template literal type that combines `Brightness` and `Color` to create a set of valid theme strings.
 
 Advanced type manipulation features in TypeScript allow you to create more expressive and flexible type definitions, enabling you to write more robust and type-safe code.
+
+[Next: 17-TypeScript-with-React](./17-TypeScript-with-React.md)

@@ -67,3 +67,5 @@ Let's create and run a simple TypeScript program:
    You should see the output: `Hello, World!`
 
 Congratulations! You've written, compiled, and executed your first TypeScript program. You're now ready to explore more features and capabilities of TypeScript.
+
+[Next: 03-Primitive-Types](./03-Primitive-Types.md)

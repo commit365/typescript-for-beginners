@@ -59,3 +59,5 @@ There are two ways to perform type assertions:
 In both examples, `someValue` and `anotherValue` are initially of type `unknown`. Type assertions are used to tell TypeScript that these values are actually strings, allowing you to access string-specific properties like `length`.
 
 Type assertions should be used cautiously, as they can lead to runtime errors if the assertion is incorrect. Always ensure that the value is indeed of the asserted type.
+
+[Next: 09-Literal-Types-and-Type-Guards](./09-Literal-Types-and-Type-Guards.md)

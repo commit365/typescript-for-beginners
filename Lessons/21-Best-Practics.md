@@ -107,3 +107,5 @@ Writing clean and maintainable TypeScript code is essential for building scalabl
    Use the above command to check for type errors without emitting JavaScript files.
 
 By following these best practices and being aware of common pitfalls, you can write clean, maintainable, and reliable TypeScript code.
+
+[Next: 22-Code-Quality-and-Linting](./22-Code-Quality-and-Linting.md)

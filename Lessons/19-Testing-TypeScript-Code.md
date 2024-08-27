@@ -78,3 +78,5 @@ Testing is a crucial part of software development, ensuring that your code behav
    The coverage report provides insights into which parts of your code are tested and which are not.
 
 Using testing tools with TypeScript helps ensure that your code is reliable and behaves as expected. It also provides confidence when making changes or adding new features.
+
+[Next: 20-TypeScript-in-Build-Systems](./20-TypeScript-in-Build-Systems.md)

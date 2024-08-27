@@ -61,3 +61,5 @@ console.log(sum(4, 5, 6, 7, 8));         // Output: 30
 ```
 
 In this example, the `sum` function uses a rest parameter `numbers` to accept any number of `number` arguments and calculates their sum.
+
+[Next: 07-Interfaces](./07-Interfaces.md)

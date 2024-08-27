@@ -91,3 +91,5 @@ Type guards are techniques used to determine the type of a variable at runtime, 
    Here, the `instanceof` operator is used to determine if `animal` is an instance of `Dog` or `Cat`, allowing the function to call the appropriate method.
 
 Type guards help ensure that your code operates safely on different types, reducing the risk of runtime errors.
+
+[Next: 10-Generics](./10-Generics.md)

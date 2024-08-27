@@ -134,3 +134,5 @@ Access modifiers control the visibility of class members.
    ```
 
 Access modifiers help encapsulate and protect the internal state of objects, ensuring that only authorized parts of the code can access or modify certain properties.
+
+[Next: 12-Modules-and-Namespaces](./12-Modules-and-Namespaces.md)

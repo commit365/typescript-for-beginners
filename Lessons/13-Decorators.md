@@ -86,3 +86,5 @@ To use decorators, you need to enable the `experimentalDecorators` option in you
    In this example, the `readonly` decorator makes the `name` property of the `Person` class read-only.
 
 Decorators provide a powerful way to add behavior to your classes and their members, making your code more modular and expressive. They are commonly used in frameworks like Angular to add metadata to classes and methods.
+
+[Next: 14-Mixins](./14-Mixins.md)

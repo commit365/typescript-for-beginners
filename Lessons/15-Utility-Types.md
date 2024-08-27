@@ -77,3 +77,5 @@ TypeScript provides several built-in utility types that help transform and manip
    Here, `completeUser` requires both `name` and `age` to be present.
 
 Utility types are powerful tools that help you work with types more effectively in TypeScript, allowing you to create more flexible and expressive type definitions.
+
+[Next: 16-Advanced-Type-Manipulation](./16-Advanced-Type-Manipulation.md)
